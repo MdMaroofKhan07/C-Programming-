@@ -84,7 +84,6 @@ C-Programming/
 ├── 05-Arrays-and-Strings/
 ├── 06-Pointers/
 ├── 07-Structures/
-└── 08-File-Handling/
 ```
 
 You can organize your `.c` files into these folders as you learn each topic.
